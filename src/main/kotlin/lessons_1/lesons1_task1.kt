@@ -1,4 +1,4 @@
 package lessons_1
 fun main(){
-    print("lesson 1")
+    print("lessons 1")
 }
